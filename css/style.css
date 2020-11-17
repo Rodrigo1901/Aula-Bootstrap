@@ -1,0 +1,58 @@
+.logo{
+    width: 250px;
+}
+
+#quemsomos{
+    background-color: rgba(0, 186, 237, 0.5);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.tituloqs{
+    margin-bottom: 30px;
+}
+
+.time{
+    width: 500px;
+    height: 500px;
+}
+
+.textoqs{
+    margin-top: 30px;
+}
+
+#parceiros{
+    background-color: rgba(250, 158, 30, 0.5);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.titulop{
+    margin-bottom: 30px;
+}
+
+.parceiros{
+    padding-bottom: 100px;
+    padding-top: 100px;
+    width: 100%;
+}
+
+#servicos{
+    background-color: rgba(50, 168, 82, 0.5);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.servicos{
+    width: 100%;
+}
+
+.bg-footer{
+    background-color: #343a40;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
